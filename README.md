@@ -7,4 +7,4 @@ The work presented here is based upon [this repository](https://github.com/YDLID
 ros2 launch ydlidar_ros2 ydlidar.launch.py
 ```
 
-![Preview](imgs/laser-ydlidar.png)
+![Preview](imgs/scan-ydlidar.png)
