@@ -22,8 +22,8 @@ setup(
     zip_safe=True,
     maintainer='mhamdi',
     maintainer_email='a_mhamdi@outlook.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='YDLiDAR scan results in rviz',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
